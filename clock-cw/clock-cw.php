@@ -17,7 +17,6 @@ Clock_CW::get_instance();
 
 class Clock_CW {
 
-	// Atributos
 	private static $instance = null;
 	private $slug = "clock-cw";
 
